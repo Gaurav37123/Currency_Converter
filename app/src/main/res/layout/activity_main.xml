@@ -83,7 +83,7 @@
         android:background="@drawable/white_bg"
         android:elevation="10dp"
         android:gravity="center_vertical"
-        android:minWidth="100dp"
+        android:minWidth="210dp"
         android:padding="5dp"
         android:textSize="18sp"
         android:visibility="invisible" />
